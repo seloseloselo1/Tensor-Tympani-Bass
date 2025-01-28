@@ -1,0 +1,5 @@
+his is the first reveal of my Internal Sound Making Manual, a work that will come in a series, fully open and publicly available on GitHub, licensed under a free license. This project is an exploration of sound, particularly the vibrations within our own bodies, and how we can understand and control them. It is not merely a technical guide but a deep inquiry into the biopolitical implications of self-control and pleasure.
+
+The manual addresses how individuals can voluntarily manipulate their bodies for the sake of pleasure, within the larger context of biopolitics. This is not just about personal exploration—it’s a critique of how our bodies have been governed and controlled throughout history, and how we might reclaim autonomy over them in new and intimate ways. The work will continuously unfold in a series, but it will always remain freely accessible on GitHub, open for anyone to engage with, contribute to, or critique.
+
+This is not simply a self-improvement project; it is a reflection on the politics of our bodies, our relationship to pleasure, and the power dynamics that shape both.
